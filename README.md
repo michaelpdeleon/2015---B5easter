@@ -9,12 +9,12 @@ HTML5, CSS3 with animation
 This microsite celebrates the Easter holiday.  Navigation is on the bottom with links to categories of items for sale.  
 
 In the **index.html**,  
-The CSS styles I created are between the comments  
+the CSS styles I created are between the comments  
 `<!-- Michael de Leon's CSS styles.  CUT HERE. CUSTOM CSS BEGIN -->`  
 and  
 `<!-- Michael de Leon's CSS styles.  CUT HERE. CUSTOM CSS END -->`  
 
-My HTML code are between the comments  
+My HTML code is between the comments  
 `<!-- Michael de Leon's code.  CUT HERE. CUSTOM CODE BEGIN -->`  
 and  
 `<!-- Michael de Leon's code.  CUT HERE. CUSTOM CODE END -->`  
